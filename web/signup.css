@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.signup_box{
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    background-color: slategrey;
+    transform: translate(-50%,-50%);
+    box-sizing: border-box;
+    box-shadow: 0 25px 30px rgba(0,0,0,0.5);
+    padding: 40px;
+    width: 400px;
+    border-radius: 10px;
+
+}
+.signup_box p{
+    color: orange;
+    font-weight: bold;
+}
+.textBox input{
+    width: 100%;
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: bold;
+    color: orange;
+    padding: 5px;
+    font-family: "American Typewriter",serif;
+
+}
+.sign_btn input{
+    width: 100%;
+    font-weight: bold;
+    font-family: "American Typewriter",serif;
+    padding: 4px;
+    border-radius: 5px;
+    background-color: orange;
+     color: darkslategrey;
+    font-size: 15px;
+
+}

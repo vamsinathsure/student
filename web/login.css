@@ -1,0 +1,45 @@
+
+
+.login-box{
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 400px;
+    transform: translate(-50%,-50%);
+    padding: 40px;
+    background: slategrey;
+    box-sizing: border-box;
+    box-shadow: 0 15px 20px rgba(0,0,0,0.5);
+    border-radius: 10px;
+
+}
+.login-box h2{
+    color: greenyellow;
+    font-weight: bold;
+}
+.login-box h3{
+    color: orange;
+    font-weight: bold;
+}
+.text-box input{
+    width: 100%;
+    font-family: "American Typewriter", serif;
+    font-weight: bold;
+    font-size: 15px;
+    color: orange;
+    border-radius: 5px;
+
+}
+.btn input{
+
+    font-family: "American Typewriter",serif;
+    width: 100%;
+    background-color: green;
+    color: orange;
+    font-weight: bold;
+    font-size: 15px;
+    padding: 5px;
+    border-radius: 5px;
+
+}

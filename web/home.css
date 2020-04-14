@@ -1,0 +1,65 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: "Courier New";
+    font-weight: bold;
+    background: url("img/student.jpg");
+    background-size: cover;
+    background-position: center;
+}
+header{
+    padding: 30px;
+    height: 20px;
+    width: 100%;
+    background-color: orange;
+
+
+
+}
+.login_btn{
+    padding: 3px;
+    text-decoration: none;
+    float: right;
+    color: black;
+    margin-right: 60px;
+    border-radius: 5px;
+    font-weight: 600;
+    font-size: 20px;
+    transition: 0.5s;
+    transition-property: background-color;
+
+
+}
+.login_btn:hover{
+    background-color: antiquewhite;
+
+}
+.signup_btn{
+    padding: 3px;
+    text-decoration: none;
+    float: right;
+    margin-right: 60px;
+    color: black;
+    border-radius: 5px;
+    font-weight: 600;
+    font-size: 20px;
+    transition: 0.5s;
+    transition-property: background-color;
+
+
+}
+.signup_btn:hover{
+    background-color: antiquewhite;
+}
+.content h1{
+    font-family: "American Typewriter", sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 100px;
+
+
+
+
+
+}

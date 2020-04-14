@@ -1,0 +1,51 @@
+.user{
+    text-decoration: none;
+    top: 30%;
+    left: 40%;
+    position: absolute;
+    color: orange;
+    box-sizing: border-box;
+    width: 400px;
+    height: auto;
+    border-radius: 10px;
+    text-decoration: none;
+    box-shadow: 0 10px 10px orange;
+
+}
+.user img{
+    border-radius: 120px;
+   margin-left: 35%;
+
+}
+.user h1{
+    margin-left: 50px;
+}
+.user h3{
+    margin-left: 150px;
+}
+.upload_btn input{
+    font-family: "American Typewriter",serif;
+    width: 90%;
+    background-color: orange;
+    color: slategrey;
+    font-weight: bold;
+    font-size: 15px;
+    padding: 5px;
+    border-radius: 5px;
+    margin-left: 10px;
+
+}
+.image input{
+    font-family: "American Typewriter",serif;
+    width: 90%;
+    background-color: orange;
+    color: slategrey;
+    font-weight: bold;
+    font-size: 15px;
+    padding: 5px;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+.image label{
+    margin-left: 10px;
+}
